@@ -1,0 +1,145 @@
+,Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Symptom_6
+0,GERD,stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain
+1,Chronic cholestasis,itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain
+2,Chronic cholestasis,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes
+3,Chronic cholestasis,itching,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes
+4,Chronic cholestasis,itching,vomiting,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes
+5,Chronic cholestasis,itching,vomiting,yellowish_skin,loss_of_appetite,abdominal_pain,yellowing_of_eyes
+6,Chronic cholestasis,itching,vomiting,yellowish_skin,nausea,abdominal_pain,yellowing_of_eyes
+7,Chronic cholestasis,itching,vomiting,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes
+8,Peptic ulcer diseae,vomiting,indigestion,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching
+9,Diabetes ,fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision
+10,Diabetes ,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity
+11,Diabetes ,fatigue,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity
+12,Diabetes ,fatigue,weight_loss,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity
+13,Diabetes ,fatigue,weight_loss,restlessness,irregular_sugar_level,blurred_and_distorted_vision,obesity
+14,Diabetes ,fatigue,weight_loss,restlessness,lethargy,blurred_and_distorted_vision,obesity
+15,Diabetes ,fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,obesity
+16,Bronchial Asthma,fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum
+17,Migraine,acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck
+18,Migraine,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression
+19,Migraine,acidity,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression
+20,Migraine,acidity,indigestion,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression
+21,Migraine,acidity,indigestion,headache,excessive_hunger,stiff_neck,depression
+22,Migraine,acidity,indigestion,headache,blurred_and_distorted_vision,stiff_neck,depression
+23,Migraine,acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,depression
+24,Jaundice,itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin
+25,Jaundice,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine
+26,Jaundice,itching,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine
+27,Jaundice,itching,vomiting,weight_loss,high_fever,yellowish_skin,dark_urine
+28,Jaundice,itching,vomiting,fatigue,high_fever,yellowish_skin,dark_urine
+29,Jaundice,itching,vomiting,fatigue,weight_loss,yellowish_skin,dark_urine
+30,Jaundice,itching,vomiting,fatigue,weight_loss,high_fever,dark_urine
+31,Malaria,chills,vomiting,high_fever,sweating,headache,nausea
+32,Malaria,vomiting,high_fever,sweating,headache,nausea,diarrhoea
+33,Malaria,chills,high_fever,sweating,headache,nausea,diarrhoea
+34,Malaria,chills,vomiting,sweating,headache,nausea,diarrhoea
+35,Malaria,chills,vomiting,high_fever,headache,nausea,diarrhoea
+36,Malaria,chills,vomiting,high_fever,sweating,nausea,diarrhoea
+37,Malaria,chills,vomiting,high_fever,sweating,headache,diarrhoea
+38,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache
+39,Chicken pox,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite
+40,Chicken pox,itching,fatigue,lethargy,high_fever,headache,loss_of_appetite
+41,Chicken pox,itching,skin_rash,lethargy,high_fever,headache,loss_of_appetite
+42,Chicken pox,itching,skin_rash,fatigue,high_fever,headache,loss_of_appetite
+43,Chicken pox,itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite
+44,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite
+45,Dengue,skin_rash,chills,joint_pain,vomiting,fatigue,high_fever
+46,Dengue,chills,joint_pain,vomiting,fatigue,high_fever,headache
+47,Dengue,skin_rash,joint_pain,vomiting,fatigue,high_fever,headache
+48,Dengue,skin_rash,chills,vomiting,fatigue,high_fever,headache
+49,Dengue,skin_rash,chills,joint_pain,fatigue,high_fever,headache
+50,Dengue,skin_rash,chills,joint_pain,vomiting,high_fever,headache
+51,Dengue,skin_rash,chills,joint_pain,vomiting,fatigue,headache
+52,Typhoid,chills,vomiting,fatigue,high_fever,nausea,constipation
+53,Typhoid,chills,vomiting,fatigue,high_fever,headache,constipation
+54,Typhoid,chills,vomiting,fatigue,high_fever,headache,nausea
+55,Typhoid,chills,fatigue,high_fever,headache,nausea,constipation
+56,hepatitis A,joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite
+57,hepatitis A,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain
+58,hepatitis A,joint_pain,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain
+59,hepatitis A,joint_pain,vomiting,dark_urine,nausea,loss_of_appetite,abdominal_pain
+60,hepatitis A,joint_pain,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain
+61,hepatitis A,joint_pain,vomiting,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain
+62,hepatitis A,joint_pain,vomiting,yellowish_skin,dark_urine,nausea,abdominal_pain
+63,Hepatitis B,itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite
+64,Hepatitis B,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain
+65,Hepatitis B,itching,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain
+66,Hepatitis B,itching,fatigue,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain
+67,Hepatitis B,itching,fatigue,lethargy,dark_urine,loss_of_appetite,abdominal_pain
+68,Hepatitis B,itching,fatigue,lethargy,yellowish_skin,loss_of_appetite,abdominal_pain
+69,Hepatitis B,itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain
+70,Hepatitis C,fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history
+71,Hepatitis D,joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea
+72,Hepatitis D,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite
+73,Hepatitis D,joint_pain,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite
+74,Hepatitis D,joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite
+75,Hepatitis D,joint_pain,vomiting,fatigue,dark_urine,nausea,loss_of_appetite
+76,Hepatitis D,joint_pain,vomiting,fatigue,yellowish_skin,nausea,loss_of_appetite
+77,Hepatitis D,joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,loss_of_appetite
+78,Hepatitis E,joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine
+79,Hepatitis E,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea
+80,Hepatitis E,joint_pain,fatigue,high_fever,yellowish_skin,dark_urine,nausea
+81,Hepatitis E,joint_pain,vomiting,high_fever,yellowish_skin,dark_urine,nausea
+82,Hepatitis E,joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea
+83,Hepatitis E,joint_pain,vomiting,fatigue,high_fever,dark_urine,nausea
+84,Hepatitis E,joint_pain,vomiting,fatigue,high_fever,yellowish_skin,nausea
+85,Alcoholic hepatitis,vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption
+86,Alcoholic hepatitis,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload
+87,Alcoholic hepatitis,vomiting,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload
+88,Alcoholic hepatitis,vomiting,yellowish_skin,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload
+89,Alcoholic hepatitis,vomiting,yellowish_skin,abdominal_pain,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload
+90,Alcoholic hepatitis,vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,history_of_alcohol_consumption,fluid_overload
+91,Alcoholic hepatitis,vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,fluid_overload
+92,Tuberculosis,chills,vomiting,fatigue,weight_loss,cough,high_fever
+93,Tuberculosis,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness
+94,Tuberculosis,chills,fatigue,weight_loss,cough,high_fever,breathlessness
+95,Tuberculosis,chills,vomiting,weight_loss,cough,high_fever,breathlessness
+96,Tuberculosis,chills,vomiting,fatigue,cough,high_fever,breathlessness
+97,Tuberculosis,chills,vomiting,fatigue,weight_loss,high_fever,breathlessness
+98,Tuberculosis,chills,vomiting,fatigue,weight_loss,cough,breathlessness
+99,Common Cold,continuous_sneezing,chills,fatigue,cough,high_fever,headache
+100,Common Cold,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes
+101,Common Cold,continuous_sneezing,fatigue,cough,high_fever,headache,swelled_lymph_nodes
+102,Common Cold,continuous_sneezing,chills,cough,high_fever,headache,swelled_lymph_nodes
+103,Common Cold,continuous_sneezing,chills,fatigue,high_fever,headache,swelled_lymph_nodes
+104,Common Cold,continuous_sneezing,chills,fatigue,cough,headache,swelled_lymph_nodes
+105,Common Cold,continuous_sneezing,chills,fatigue,cough,high_fever,swelled_lymph_nodes
+106,Pneumonia,chills,fatigue,cough,high_fever,breathlessness,sweating
+107,Pneumonia,fatigue,cough,high_fever,breathlessness,sweating,malaise
+108,Pneumonia,chills,cough,high_fever,breathlessness,sweating,malaise
+109,Pneumonia,chills,fatigue,high_fever,breathlessness,sweating,malaise
+110,Pneumonia,chills,fatigue,cough,breathlessness,sweating,malaise
+111,Pneumonia,chills,fatigue,cough,high_fever,sweating,malaise
+112,Pneumonia,chills,fatigue,cough,high_fever,breathlessness,malaise
+113,Varicose veins,fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels
+114,Varicose veins,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf
+115,Varicose veins,fatigue,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf
+116,Varicose veins,fatigue,cramps,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf
+117,Varicose veins,fatigue,cramps,bruising,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf
+118,Varicose veins,fatigue,cramps,bruising,obesity,swollen_blood_vessels,prominent_veins_on_calf
+119,Varicose veins,fatigue,cramps,bruising,obesity,swollen_legs,prominent_veins_on_calf
+120,Hypothyroidism,fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness
+121,Hypothyroidism,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes
+122,Hypothyroidism,fatigue,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes
+123,Hypothyroidism,fatigue,weight_gain,mood_swings,lethargy,dizziness,puffy_face_and_eyes
+124,Hypothyroidism,fatigue,weight_gain,cold_hands_and_feets,lethargy,dizziness,puffy_face_and_eyes
+125,Hypothyroidism,fatigue,weight_gain,cold_hands_and_feets,mood_swings,dizziness,puffy_face_and_eyes
+126,Hypothyroidism,fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,puffy_face_and_eyes
+127,Hyperthyroidism,fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea
+128,Hyperthyroidism,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate
+129,Hyperthyroidism,fatigue,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate
+130,Hyperthyroidism,fatigue,mood_swings,restlessness,sweating,diarrhoea,fast_heart_rate
+131,Hyperthyroidism,fatigue,mood_swings,weight_loss,sweating,diarrhoea,fast_heart_rate
+132,Hyperthyroidism,fatigue,mood_swings,weight_loss,restlessness,diarrhoea,fast_heart_rate
+133,Hyperthyroidism,fatigue,mood_swings,weight_loss,restlessness,sweating,fast_heart_rate
+134,Hypoglycemia,vomiting,fatigue,anxiety,sweating,headache,nausea
+135,Hypoglycemia,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision
+136,Hypoglycemia,vomiting,anxiety,sweating,headache,nausea,blurred_and_distorted_vision
+137,Hypoglycemia,vomiting,fatigue,sweating,headache,nausea,blurred_and_distorted_vision
+138,Hypoglycemia,vomiting,fatigue,anxiety,headache,nausea,blurred_and_distorted_vision
+139,Hypoglycemia,vomiting,fatigue,anxiety,sweating,nausea,blurred_and_distorted_vision
+140,Hypoglycemia,vomiting,fatigue,anxiety,sweating,headache,blurred_and_distorted_vision
+141,Osteoarthristis,joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking
+142,(vertigo) Paroymsal  Positional Vertigo,vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness
+143,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails
